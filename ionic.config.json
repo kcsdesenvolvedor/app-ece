@@ -1,0 +1,7 @@
+{
+  "name": "appECE",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
